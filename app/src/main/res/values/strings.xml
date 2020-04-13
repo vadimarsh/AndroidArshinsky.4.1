@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidArshinsky.4.1</string>
+    <string name="txtMoneyInput">Ввод денег</string>
+    <string name="txtOkBtn">OK</string>
+    <string name="txtChkCard">С банковской карты</string>
+    <string name="txtChkPhone">С мобильного телефона</string>
+    <string name="txtChkCash">Наличными по адресу</string>
+    <string name="txtInputInfo">Информация об оплате</string>
+    <string name="tstInfoError">"Вначале внесите всю информацию"</string>
+</resources>
